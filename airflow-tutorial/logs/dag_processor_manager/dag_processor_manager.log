@@ -1170,3 +1170,5 @@ File Path                                                                       
 /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.11s           2024-08-06T14:41:18
 /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.11s           2024-08-06T14:42:24
 ================================================================================
+[2024-08-06T23:12:09.449+0800] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2024-08-06T23:12:09.501+0800] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
