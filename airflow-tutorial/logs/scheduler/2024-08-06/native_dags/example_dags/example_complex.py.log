@@ -1,0 +1,74 @@
+[2024-08-06T22:33:23.949+0800] {processor.py:161} INFO - Started process (PID=93187) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:33:23.951+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-06T22:33:23.953+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:23.953+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:33:23.974+0800] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:33:24.161+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:24.160+0800] {override.py:1858} INFO - Created Permission View: can delete on DAG:example_complex
+[2024-08-06T22:33:24.180+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:24.179+0800] {override.py:1858} INFO - Created Permission View: can read on DAG:example_complex
+[2024-08-06T22:33:24.193+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:24.193+0800] {override.py:1858} INFO - Created Permission View: can edit on DAG:example_complex
+[2024-08-06T22:33:24.194+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:24.194+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:33:24.210+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:24.209+0800] {dag.py:3111} INFO - Creating ORM DAG for example_complex
+[2024-08-06T22:33:24.211+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:24.211+0800] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-06T22:33:24.248+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.310 seconds
+[2024-08-06T22:34:24.786+0800] {processor.py:161} INFO - Started process (PID=93616) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:34:24.788+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-06T22:34:24.791+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:34:24.790+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:34:24.805+0800] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:34:24.846+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:34:24.846+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:34:24.864+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:34:24.864+0800] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-06T22:34:24.901+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.123 seconds
+[2024-08-06T22:36:02.052+0800] {processor.py:161} INFO - Started process (PID=94364) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:36:02.054+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-06T22:36:02.058+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:36:02.057+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:36:02.073+0800] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:36:02.285+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:36:02.285+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:36:02.304+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:36:02.303+0800] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-06T22:36:02.358+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.315 seconds
+[2024-08-06T22:37:07.132+0800] {processor.py:161} INFO - Started process (PID=94801) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:37:07.133+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-06T22:37:07.136+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:37:07.135+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:37:07.150+0800] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:37:07.189+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:37:07.189+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:37:07.206+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:37:07.206+0800] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-06T22:37:07.242+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.122 seconds
+[2024-08-06T22:38:05.735+0800] {processor.py:161} INFO - Started process (PID=95189) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:38:05.737+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-06T22:38:05.739+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:38:05.739+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:38:05.754+0800] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:38:05.794+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:38:05.793+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:38:05.811+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:38:05.811+0800] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-06T22:38:05.847+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.124 seconds
+[2024-08-06T22:39:03.533+0800] {processor.py:161} INFO - Started process (PID=95601) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:39:03.542+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-06T22:39:03.544+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:39:03.544+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:39:03.560+0800] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:39:03.607+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:39:03.606+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:39:03.630+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:39:03.630+0800] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-06T22:39:03.684+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.162 seconds
+[2024-08-06T22:39:58.395+0800] {processor.py:161} INFO - Started process (PID=96059) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:39:58.397+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-06T22:39:58.399+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:39:58.399+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:39:58.414+0800] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:39:58.454+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:39:58.454+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:39:58.473+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:39:58.472+0800] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-06T22:39:58.510+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.123 seconds
+[2024-08-06T22:40:49.627+0800] {processor.py:161} INFO - Started process (PID=96456) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:40:49.629+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-06T22:40:49.633+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:40:49.632+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:40:49.653+0800] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:40:49.704+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:40:49.704+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:40:49.729+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:40:49.728+0800] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-06T22:40:49.776+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.161 seconds
+[2024-08-06T22:41:41.896+0800] {processor.py:161} INFO - Started process (PID=96798) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:41:41.899+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-06T22:41:41.901+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:41:41.900+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:41:41.915+0800] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:41:41.954+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:41:41.954+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:41:41.972+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:41:41.971+0800] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-06T22:41:42.014+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.128 seconds
+[2024-08-06T22:42:36.257+0800] {processor.py:161} INFO - Started process (PID=97138) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:42:36.259+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-06T22:42:36.263+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:42:36.262+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:42:36.283+0800] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-08-06T22:42:36.336+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:42:36.336+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:42:36.362+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:42:36.362+0800] {dag.py:3947} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-06T22:42:36.406+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.160 seconds

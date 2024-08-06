@@ -1,0 +1,74 @@
+[2024-08-06T22:32:57.933+0800] {processor.py:161} INFO - Started process (PID=93017) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:32:57.934+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-06T22:32:57.937+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:32:57.936+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:32:57.953+0800] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:32:58.130+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:32:58.129+0800] {override.py:1858} INFO - Created Permission View: can delete on DAG:tutorial
+[2024-08-06T22:32:58.149+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:32:58.148+0800] {override.py:1858} INFO - Created Permission View: can read on DAG:tutorial
+[2024-08-06T22:32:58.162+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:32:58.161+0800] {override.py:1858} INFO - Created Permission View: can edit on DAG:tutorial
+[2024-08-06T22:32:58.163+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:32:58.163+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:32:58.178+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:32:58.178+0800] {dag.py:3111} INFO - Creating ORM DAG for tutorial
+[2024-08-06T22:32:58.192+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:32:58.192+0800] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-05 00:00:00+00:00, run_after=2024-08-06 00:00:00+00:00
+[2024-08-06T22:32:58.226+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.304 seconds
+[2024-08-06T22:33:57.407+0800] {processor.py:161} INFO - Started process (PID=93425) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:33:57.415+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-06T22:33:57.418+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:57.417+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:33:57.427+0800] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:33:57.452+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:57.452+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:33:57.483+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:57.482+0800] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-05 00:00:00+00:00, run_after=2024-08-06 00:00:00+00:00
+[2024-08-06T22:33:57.521+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.124 seconds
+[2024-08-06T22:35:35.849+0800] {processor.py:161} INFO - Started process (PID=94194) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:35:35.851+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-06T22:35:35.854+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:35:35.853+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:35:35.865+0800] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:35:35.878+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:35:35.878+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:35:35.926+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:35:35.926+0800] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-05 00:00:00+00:00, run_after=2024-08-06 00:00:00+00:00
+[2024-08-06T22:35:35.973+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.134 seconds
+[2024-08-06T22:36:38.159+0800] {processor.py:161} INFO - Started process (PID=94594) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:36:38.161+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-06T22:36:38.163+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:36:38.163+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:36:38.173+0800] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:36:38.313+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:36:38.313+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:36:38.339+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:36:38.338+0800] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-05 00:00:00+00:00, run_after=2024-08-06 00:00:00+00:00
+[2024-08-06T22:36:38.384+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.236 seconds
+[2024-08-06T22:37:36.538+0800] {processor.py:161} INFO - Started process (PID=94998) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:37:36.540+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-06T22:37:36.544+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:37:36.543+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:37:36.553+0800] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:37:36.578+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:37:36.578+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:37:36.608+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:37:36.608+0800] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-05 00:00:00+00:00, run_after=2024-08-06 00:00:00+00:00
+[2024-08-06T22:37:36.649+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.122 seconds
+[2024-08-06T22:38:32.915+0800] {processor.py:161} INFO - Started process (PID=95397) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:38:32.917+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-06T22:38:32.919+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:38:32.919+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:38:32.929+0800] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:38:32.954+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:38:32.953+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:38:32.985+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:38:32.984+0800] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-05 00:00:00+00:00, run_after=2024-08-06 00:00:00+00:00
+[2024-08-06T22:38:33.020+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.114 seconds
+[2024-08-06T22:39:26.528+0800] {processor.py:161} INFO - Started process (PID=95795) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:39:26.537+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-06T22:39:26.541+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:39:26.540+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:39:26.550+0800] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:39:26.575+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:39:26.575+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:39:26.607+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:39:26.607+0800] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-05 00:00:00+00:00, run_after=2024-08-06 00:00:00+00:00
+[2024-08-06T22:39:26.650+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.133 seconds
+[2024-08-06T22:40:19.039+0800] {processor.py:161} INFO - Started process (PID=96194) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:40:19.047+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-06T22:40:19.050+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:40:19.049+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:40:19.059+0800] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:40:19.082+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:40:19.082+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:40:19.112+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:40:19.111+0800] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-05 00:00:00+00:00, run_after=2024-08-06 00:00:00+00:00
+[2024-08-06T22:40:19.147+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.120 seconds
+[2024-08-06T22:41:08.743+0800] {processor.py:161} INFO - Started process (PID=96575) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:41:08.744+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-06T22:41:08.747+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:41:08.746+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:41:08.756+0800] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:41:08.781+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:41:08.780+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:41:08.811+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:41:08.811+0800] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-05 00:00:00+00:00, run_after=2024-08-06 00:00:00+00:00
+[2024-08-06T22:41:08.849+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.114 seconds
+[2024-08-06T22:42:01.080+0800] {processor.py:161} INFO - Started process (PID=96922) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:42:01.083+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-08-06T22:42:01.086+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:42:01.085+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:42:01.098+0800] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2024-08-06T22:42:01.123+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:42:01.123+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:42:01.153+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:42:01.153+0800] {dag.py:3947} INFO - Setting next_dagrun for tutorial to 2024-08-05 00:00:00+00:00, run_after=2024-08-06 00:00:00+00:00
+[2024-08-06T22:42:01.189+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.121 seconds

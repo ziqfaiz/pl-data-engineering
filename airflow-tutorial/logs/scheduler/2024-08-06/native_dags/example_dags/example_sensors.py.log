@@ -1,0 +1,74 @@
+[2024-08-06T22:33:07.364+0800] {processor.py:161} INFO - Started process (PID=93087) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:33:07.365+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-06T22:33:07.368+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:07.367+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:33:07.381+0800] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:33:07.561+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:07.560+0800] {override.py:1858} INFO - Created Permission View: can delete on DAG:example_sensors
+[2024-08-06T22:33:07.580+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:07.579+0800] {override.py:1858} INFO - Created Permission View: can read on DAG:example_sensors
+[2024-08-06T22:33:07.594+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:07.593+0800] {override.py:1858} INFO - Created Permission View: can edit on DAG:example_sensors
+[2024-08-06T22:33:07.594+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:07.594+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:33:07.610+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:07.610+0800] {dag.py:3111} INFO - Creating ORM DAG for example_sensors
+[2024-08-06T22:33:07.612+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:33:07.611+0800] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-06T22:33:07.646+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.293 seconds
+[2024-08-06T22:34:06.878+0800] {processor.py:161} INFO - Started process (PID=93501) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:34:06.887+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-06T22:34:06.889+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:34:06.889+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:34:06.903+0800] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:34:06.935+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:34:06.934+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:34:06.953+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:34:06.953+0800] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-06T22:34:06.990+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.123 seconds
+[2024-08-06T22:35:46.244+0800] {processor.py:161} INFO - Started process (PID=94267) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:35:46.246+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-06T22:35:46.248+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:35:46.248+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:35:46.264+0800] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:35:46.464+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:35:46.464+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:35:46.483+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:35:46.483+0800] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-06T22:35:46.522+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.290 seconds
+[2024-08-06T22:36:47.459+0800] {processor.py:161} INFO - Started process (PID=94645) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:36:47.461+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-06T22:36:47.463+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:36:47.463+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:36:47.476+0800] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:36:47.509+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:36:47.508+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:36:47.527+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:36:47.526+0800] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-06T22:36:47.562+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.114 seconds
+[2024-08-06T22:37:46.903+0800] {processor.py:161} INFO - Started process (PID=95060) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:37:46.905+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-06T22:37:46.907+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:37:46.906+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:37:46.920+0800] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:37:46.951+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:37:46.951+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:37:46.969+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:37:46.968+0800] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-06T22:37:47.015+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.123 seconds
+[2024-08-06T22:38:41.673+0800] {processor.py:161} INFO - Started process (PID=95449) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:38:41.675+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-06T22:38:41.678+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:38:41.677+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:38:41.691+0800] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:38:41.723+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:38:41.723+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:38:41.741+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:38:41.741+0800] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-06T22:38:41.783+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.118 seconds
+[2024-08-06T22:39:35.555+0800] {processor.py:161} INFO - Started process (PID=95906) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:39:35.557+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-06T22:39:35.560+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:39:35.560+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:39:35.579+0800] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:39:35.623+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:39:35.623+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:39:35.648+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:39:35.647+0800] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-06T22:39:35.693+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.150 seconds
+[2024-08-06T22:40:27.326+0800] {processor.py:161} INFO - Started process (PID=96259) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:40:27.334+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-06T22:40:27.337+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:40:27.336+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:40:27.350+0800] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:40:27.381+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:40:27.380+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:40:27.398+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:40:27.398+0800] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-06T22:40:27.434+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.120 seconds
+[2024-08-06T22:41:26.222+0800] {processor.py:161} INFO - Started process (PID=96708) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:41:26.224+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-06T22:41:26.227+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:41:26.227+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:41:26.243+0800] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:41:26.275+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:41:26.274+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:41:26.293+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:41:26.293+0800] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-06T22:41:26.331+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.122 seconds
+[2024-08-06T22:42:20.350+0800] {processor.py:161} INFO - Started process (PID=97038) to work on /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:42:20.352+0800] {processor.py:830} INFO - Processing file /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-08-06T22:42:20.355+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:42:20.355+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:42:20.371+0800] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-08-06T22:42:20.406+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:42:20.405+0800] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-06T22:42:20.424+0800] {logging_mixin.py:188} INFO - [2024-08-06T22:42:20.424+0800] {dag.py:3947} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-08-06T22:42:20.460+0800] {processor.py:183} INFO - Processing /home/haziq/Documents/pl-data-engineering/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.120 seconds
